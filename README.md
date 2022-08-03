@@ -70,7 +70,7 @@ Download MySQL Workbench, follow the setup wizard & create a localhost server on
 
 <ol> 
   <li>Open SQL Workbench.
-  <li>Navigate to "joke_book" schema.
+  <li>Navigate to "fan_book" schema.
   <li>Click the drop down, select "Table".
   <li>Verify the tables, you should see <strong>bands</strong>, <strong>members</strong>, <strong>genres</strong>, <strong>bandmember</strong>, & <strong>bandgenre</strong>.
   
