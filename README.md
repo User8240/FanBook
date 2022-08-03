@@ -66,7 +66,9 @@ Download MySQL Workbench, follow the setup wizard & create a localhost server on
 <small>**Note: you must include your username in the code block section labeled "YOUR-USERNAME-HERE".</small><br>
 <small>***Note: if you plan to push this cloned project to a public-facing repository, remember to add the appsettings.json file to your .gitignore before doing so.</small>
 
-<li>In root directory of project folder "FanBook", run <strong>$ dotnet ef migrations add restoreDatabase</strong>
+<li>In root directory of project folder "FanBook", run  
+<strong>$ dotnet ef migrations add restoreDatabase</strong>
+<li>Then run <strong>$ dotnet ef database update</strong>
 
 <ol> 
   <li>Open SQL Workbench.
