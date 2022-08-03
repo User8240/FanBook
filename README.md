@@ -2,7 +2,7 @@
 
 #### By _**Grace Kostanich**_  
 
-#### _Stage for edit..._  
+#### _This website will allow a user to record their favorite bands names, their respective members, and the genre of each said band! Hence, the ultimate "FanBook"._  
 
 ---
 
