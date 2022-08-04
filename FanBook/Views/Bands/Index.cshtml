@@ -1,0 +1,15 @@
+@{
+  Layout = "_Layout";
+}
+
+@using FanBook.Models;
+@model List<FanBook.Models.Band>;
+
+<h1>Bands</h1>
+
+<hr/>
+
+@if (@Model.Count == 0)
+{
+  <h3>No Bands have been added yet!</h3>
+}
