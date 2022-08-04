@@ -93,7 +93,10 @@ This program was built using *`Microsoft .NET SDK 5.0.401`*, and may not be comp
 
 ---
 
-#### _**Big Thanks to Garrett Hays @ https://github.com/GarrettHays for amazing README formatting and instructions!**_  
+>#### _**A Big Thanks To:**_ 
+>#### **Garrett Hays @ https://github.com/GarrettHays**    
+>#### **Zachary Waggoner @ https://github.com/CyndaZ42**  
+>#### _**for amazing README formatting and instructions!**_  
 
 
 ## Known Bugs
