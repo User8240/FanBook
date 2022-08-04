@@ -92,6 +92,10 @@ Run ```$ dotnet run``` in the terminal.
 This program was built using *`Microsoft .NET SDK 5.0.401`*, and may not be compatible with other versions. Your milage may vary.
 
 ---
+
+#### _**Big Thanks to Garrett Hays @ https://github.com/GarrettHays for amazing README formatting and instructions!**_  
+
+
 ## Known Bugs
 
 * _No known issues_
@@ -99,5 +103,6 @@ This program was built using *`Microsoft .NET SDK 5.0.401`*, and may not be comp
 ## License
 
 _None_
+
 
 Copyright (c) 8/3/2022 Grace Kostanich 
