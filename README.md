@@ -98,6 +98,7 @@ This program was built using *`Microsoft .NET SDK 5.0.401`*, and may not be comp
 >#### **Zachary Waggoner @ https://github.com/CyndaZ42**  
 >#### _**for amazing README formatting and instructions!**_  
 
+---
 
 ## Known Bugs
 
